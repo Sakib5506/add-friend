@@ -1,0 +1,17 @@
+
+.timeline-container{
+    display: flex;
+    
+}
+.user-container{
+    width: 70%;
+    margin: 50px;
+    /* border: 1px solid black; */
+    
+    
+}
+.cart-container{
+    width: 30%;
+    border: 1px solid red;
+    border-left: 1px solid gray;
+}
